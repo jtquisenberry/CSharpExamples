@@ -1,3 +1,4 @@
+// Change IBM Lotus Notes ID file.
 
 // Instantiate Notes Session
 public NotesSession session = null;
